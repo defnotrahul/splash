@@ -1,8 +1,8 @@
 {
   "latest-public-beta": {
-    "version": "0.1.9",
-    "date": "31-7-2023",
-    "download_url":"https://bit.ly/3Ozt7tA",
-    "changelogs": "The feed preferences now do not reset every time the app is reopened.\nFixed an issue causing the app to get stuck on the splash screen during startup due to invalid decrypt keys.\nThe recommended community list is now hidden if it's empty.\nAdded search suggestions to the search page.\nFixed the notifications icon.\nMade more fixes to the like button.\nYou can now navigate between all the images/gifs without the need to open each image separately.\nAdded a share image button next to the download image button.\nNow, posts with only images can be posted.\nFixed timestamps not showing in the local timezone.\nSet the post tab as default in user profiles.\nMinor UI changes."
+    "version": "0.2.0",
+    "date": "3-8-2023",
+    "download_url":"https://bit.ly/3KoHU83",
+    "changelogs": "Comment editing and deleting are now possible\nReplaced the in-app browser with Custom Tabs\nImproved image carousel experience\nFixed the issue where likes were not showing in user profiles\nAdded custom logs for app testers, hold the notification icon to access the log viewer\nThe login through DuckDuckGo should be fixed now\nAdded mention notifications\nAdded customization (sidemenu) for\n The position of action buttons such as create post, reply, etc.\n The default tab for user profiles (posts, about, comments)\nFixed the issue where markdown was showing with incorrect formatting (disabled the @ highlighting temporarily)\nRemoved the login issue note from the accounts page as it's been fixed already\nMinor UI changes"
   }
 }
