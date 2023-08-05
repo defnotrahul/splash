@@ -1,8 +1,8 @@
 {
   "latest-public-beta": {
-    "version": "0.2.0",
-    "date": "3-8-2023",
-    "download_url":"https://bit.ly/3KoHU83",
-    "changelogs": "Comment editing and deleting are now possible\nReplaced the in-app browser with Custom Tabs\nImproved image carousel experience\nFixed the issue where likes were not showing in user profiles\nAdded custom logs for app testers, hold the notification icon to access the log viewer\nThe login through DuckDuckGo should be fixed now\nAdded mention notifications\nAdded customization (sidemenu) for\n The position of action buttons such as create post, reply, etc.\n The default tab for user profiles (posts, about, comments)\nFixed the issue where markdown was showing with incorrect formatting (disabled the @ highlighting temporarily)\nRemoved the login issue note from the accounts page as it's been fixed already\nMinor UI changes"
+    "version": "0.2.2",
+    "date": "6-8-2023",
+    "download_url":"https://bit.ly/3Ym1UO8",
+    "changelogs":"Major API update\nUpdated Markdown parser\nAdded Spoilers\nFixed @, /s/, /u/ highlighting\nFixed community icons\nEnhanced Community page & user profile page UI\nAdded community rules\nFixed Follow notifications tab\nBlack appbar for Light theme\nImproved Confirm Dialog UI\nUser profile picture improvements\nDynamic positioning of action buttons above the keyboard\nResolved post updating error issue\nMinor UI and performance improvements"
   }
 }
