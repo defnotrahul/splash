@@ -1,8 +1,8 @@
 {
   "latest-public-beta": {
-    "version": "0.2.4",
-    "date": "16-8-2023",
-    "download_url":"https://bit.ly/47xn2VX",
-    "changelogs":"Added Multiple Accounts Support\nAdded User Search Tab (kindof)\nMade post text selectable (in expanded post).\nAdded user muting/blocking functionality.\nIntroduced compact layout for posts in the feed.\nFixed flickering of images when loading new posts\nFixed multiple image download issue\nYou can now mark specific type of notifications as read\nFixed Scrolling of Rules BottomSheet\nFixed in-app links\nUpdated Join Dev Page\nAdded Login failure toast\nUpdated Splash Server Auth API\nUI & Performance Improvements"
+    "version": "0.2.7",
+    "date": "05-9-2023",
+    "download_url":"https://bit.ly/45A9Pdv",
+    "changelogs":"Fixed login issues\nAdded DMs\nWEBP image support\n'Report Post' functionality\nOption to filter communities, people, or both\nImages aren't cropped anymore\nBetter Seamless Feed\nEdit profile\nImproved Search UI\nResolved like button bugs\nImproved settings navigation\nFixed carousel indicator overflow bug\nFixed Grey Image Bug\nFixed Grey Comments Bug\nFixed Comment/Like Button in Compact Mode\nAdded option to open in a browser if an image fails to load\nMore UI Changes"
   }
 }
