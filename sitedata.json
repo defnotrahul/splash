@@ -3,6 +3,6 @@
     "version": "0.2.7",
     "date": "05-9-2023",
     "download_url":"https://bit.ly/45A9Pdv",
-    "changelogs":"Fixed login issues\nAdded DMs\nWEBP image support\n'Report Post' functionality\nOption to filter communities, people, or both\nImages aren't cropped anymore\nBetter Seamless Feed\nEdit profile\nImproved Search UI\nResolved like button bugs\nImproved settings navigation\nFixed carousel indicator overflow bug\nFixed Grey Image Bug\nFixed Grey Comments Bug\nFixed Comment/Like Button in Compact Mode\nAdded option to open in a browser if an image fails to load\nMore UI Changes"
+    "changelogs":"New Community Chats\nIntroducing Themes & AMOLED Mode\nLarger Post Titles\nFaster Home Feed Loading\nDisabled Link preview temporarily due to performance issues\nUser Avatars in Home Feed Posts\nEnhanced Media Carousel\nAdded About Page\nOther improvements",
   }
 }
